@@ -275,7 +275,7 @@ short description of the attack and its OWASP category.
 
 ## 👤 Author
 
-**Capt-Nouman**
+**Nouman Majeed**
 GitHub: [@Capt-Nouman](https://github.com/Capt-Nouman)
 
 ## 📄 License
